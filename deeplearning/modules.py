@@ -5,7 +5,7 @@ import tensorflow as tf
 def simple_neuralnetwork_model(
     x=None, 
     y=None,
-    hidden = [128, 64, 32],
+    hidden = [128, 64, 32, 16],
     output_dim = 10,
     validation_split=0.2,
     loss='mse',
