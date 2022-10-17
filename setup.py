@@ -6,6 +6,6 @@ setup(
   author_email="Eagle0504@gmail.com",
   license="MIT license",
   description="This package provides AI-driven solutions.",
-  packages=["deeplearning"]
+  packages=["deeplearning", "Simple"]
 )
   
