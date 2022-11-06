@@ -15,7 +15,7 @@ Please use the following code to install.
 
 ```
 # install this library
-!pip install git+https://github.com/yiqiao-yin/RandomModel.git
+!pip install git+https://github.com/sn715/musicgen.git
 ```
 
 ```
